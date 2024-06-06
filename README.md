@@ -1,1 +1,1 @@
-This is the clone responsive website of spaceX which i had build while learning bootstrap.
+This is the responsive website clone of SpaceX that I built while learning Bootstrap.
